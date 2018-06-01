@@ -1,6 +1,8 @@
 {
   "configs": [
     "dataweave-2-basics.xml"
+
+	
   ],
   "redeploymentEnabled": true,
   "name": "dataweave-2-basics",
